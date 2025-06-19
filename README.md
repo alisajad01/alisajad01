@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+ 👾 <img src="https://i.postimg.cc/7h0f3bvW/name.png" alt="Ali Sajad Ahmadi" width="330" /> 👾
+</h1>
 
-<!--
-**alisajad01/alisajad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hello everyone, I am Ali a develoepr from Afghanistan.
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  HTML
+  - CSS
+  - JavaScript
+  - Python
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Let's chagne the world!
+</p>
